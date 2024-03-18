@@ -1,0 +1,4 @@
+*Git cloning the repository from the other environment of space to our local computer by using fork option and copied url of command@git clone copied url or shift+insert.
+so first should move to our space to make changes by using the Fork option in the GitHub
+
+*Push the local computer changed repository to the remote repository
